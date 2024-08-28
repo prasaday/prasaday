@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasad d ayzola
+- 👋 Hi, I’m @prasad d aysola
 - 👀 I’m interested in .Natural Language Processing (NLP)/Machine Learning, R/ Machine learning types : Randon Forest, Linear and Logistic Regression, Bayes Regression 
 - 🌱 I’m currently learning .Text pre-cleaning and NPL machine Learning ..
 - 💞️ I’m looking to collaborate on ...
